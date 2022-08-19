@@ -1,0 +1,6 @@
+:root{
+  --vt-color: red
+}
+body{
+  color: var(--vt-color)
+}
